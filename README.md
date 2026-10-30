@@ -4,6 +4,8 @@
 
 🌐 **Demo en vivo:** [...]()
 
+🖼️ **Diseño en Figma: ** [Figma](https://www.figma.com/design/0JJDOwCoI6atOJhTSx0au6/Portafolio-Camilo-Andr%C3%A9s?node-id=0-1&t=Gsvn1bjZCa1vaDIl-1)
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
